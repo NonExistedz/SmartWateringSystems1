@@ -1,0 +1,15 @@
+h4 {
+    color: #ffffff;
+}
+
+.container {
+    width: 900px;
+    height: 600px;
+    background-color: #313337;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.infos {
+    display: block;
+}
